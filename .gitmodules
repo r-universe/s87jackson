@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "contextFind"]
+	path = contextFind
+	url = https://github.com/s87jackson/contextfind
 [submodule "rfars"]
 	path = rfars
 	url = https://github.com/s87jackson/rfars
